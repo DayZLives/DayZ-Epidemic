@@ -101,15 +101,7 @@ Link to Credits/Website - http://opendayz.net/threads/where-to-get-sarge-ai.9715
 Author: Sigma-6  
 Link to Credits/Website - http://www.armaholic.com/page.php?id=10857  
 &nbsp;  
-&nbsp;  
-- - -
-####American Law Enforcement####
-- - -
-Author: Coldfuse  
-Author: Killerc22  
-Link to Credits/Website - http://www.armaholic.com/page.php?id=12197  
-&nbsp;  
-&nbsp;    
+&nbsp;     
 - - -
 ####AirRaid Bombing Script####
 - - -
@@ -144,6 +136,41 @@ Link to Credits/Website - http://www.armaholic.com/page.php?id=12077
 - - -
 Author: Icewindo  
 Link to Credits/Website - http://www.armaholic.com/page.php?id=6184  
+&nbsp;  
+&nbsp;  
+- - -
+####CSJ Gyro Pack####
+- - -
+Author: CSJ  
+Link to Credits/Website - http://www.armaholic.com/page.php?id=2358  
+&nbsp;  
+&nbsp;  
+- - -
+####Tactical Shields Pack####
+- - -
+Author: DAK  
+Link to Credits/Website - http://www.armaholic.com/page.php?id=12139  
+&nbsp;  
+&nbsp;  
+- - -
+####KYO Microlight####
+- - -
+Author: Konyo  
+Link to Credits/Website - http://www.armaholic.com/page.php?id=12562  
+&nbsp;  
+&nbsp;  
+- - -
+####Len Backpack Addon####
+- - -
+Author: Lennard  
+Link to Credits/Website - http://www.armaholic.com/page.php?id=13793  
+&nbsp;  
+&nbsp;  
+- - -
+####MAP EU####
+- - -
+Author: Lester  
+Link to Credits/Website - http://www.armaholic.com/page.php?id=6194  
 
 &nbsp;
 
