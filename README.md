@@ -66,11 +66,18 @@ Your all set! Now all you have to do is launch the game through the "DayZ_Epidem
 - - -
 ####DayZ Epidemic:####
 - - -
+<b>Development Team:</b>  
 Krix - Lead Developer  
-Vilemouse - All Arounder  
-AZombieBaby - Models/Textures  
-Ho_Troder - Official Beta Tester  
-DRAGON - Official Beta Tester  
+AZombieBaby - Map Editor  
+Vilemouse - DataBase  
+
+<b>Official Beta Testers:</b>  
+Ho_Troder  
+DRAGON  
+Noob_Sauce  
+th3Dude  
+Pa1ch3  
+Dangitdan  
 &nbsp;  
 &nbsp;  
 - - -
